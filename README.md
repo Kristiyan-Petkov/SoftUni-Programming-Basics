@@ -3,6 +3,8 @@
 
 **Course duration:** 2 months
 
+check
+
 **Start date:** 02/10/2021
 
 **The "Programming Basics" course provides basic programming skills required for all technology majors at the Software University.**
